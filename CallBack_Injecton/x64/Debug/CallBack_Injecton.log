@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(34,19): warning C4047: 'initialisation' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,79): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,79): warning C4024: 'CreateTimerQueueTimer' : types différents pour le paramètre formel et réel 5
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,86): warning C4047: 'fonction' : les niveaux d'indirection de 'DWORD' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,86): warning C4024: 'CreateTimerQueueTimer' : types différents pour le paramètre formel et réel 6
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,92): warning C4047: 'fonction' : les niveaux d'indirection de 'ULONG' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\CallBack_Injecton\main.c(62,92): warning C4024: 'CreateTimerQueueTimer' : types différents pour le paramètre formel et réel 7
+  CallBack_Injecton.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\CallBack_Injecton\x64\Debug\CallBack_Injecton.exe
